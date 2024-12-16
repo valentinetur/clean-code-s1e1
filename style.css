@@ -47,7 +47,8 @@ ul {
   padding: 0px;
 }
 
-li, 
+li,
+h2,
 h3 {
   list-style: none;
 }
@@ -69,6 +70,11 @@ button{
 
 .button:hover {
   color: #3a3a3a;
+}
+
+.header, 
+.footer {
+    text-align: center;
 }
 
 /* Heading */
