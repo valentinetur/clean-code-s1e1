@@ -18,8 +18,9 @@
 }
 
 @media (max-width:768px) {
-.more-inf-block { text-align: center;
-}
+    .more-inf-block { 
+        text-align: center;
+    }
 }
 .centered-element {
   display: block;
